@@ -12,7 +12,7 @@ import {EOL} from "os";
 // parse CLI args
 let args=require("yargs").default({
     realizations: 1,
-    points: 1048576,//16777216,
+    points: 1048576,
     output: "test",
     reportTick: 1,
     price: 30000,
