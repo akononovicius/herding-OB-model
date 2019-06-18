@@ -8,6 +8,9 @@ This implementation also provides CLI interface, which enables access to PDF and
 PSD of the absolute return and trading activity time series. The respective time
 series can be also saved and analyzed using other tools.
 
+Anyone may use the source code for any purpose as long as the paper [1]
+is appropriately referenced.
+
 ## FAQ
 
 Why TypeScript? Implementing the original model in C/C++ would be quite possible,
